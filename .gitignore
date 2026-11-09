@@ -1,0 +1,9 @@
+# Postman
+.postman/
+
+# Dependencias
+__pycache__/
+
+# Banco de dados
+*.db
+
